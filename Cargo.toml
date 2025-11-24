@@ -1,0 +1,16 @@
+[package]
+name = "specx"
+version = "0.1.0"
+authors = ["Kirill Rudakov <simbiont666@gmail.com>"]
+edition = "2021"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+description = "Minimal Specification pattern utilities for Rust with composable predicate specs, boolean combinators, and a micro-DSL."
+repository = "https://github.com/simbiont666/specx"
+homepage = "https://github.com/simbiont666/specx"
+documentation = "https://docs.rs/specx"
+
+keywords = ["specification", "pattern", "predicate", "dsl", "combinator"]
+categories = ["algorithms", "data-structures", "rust-patterns"]
+
+[dependencies]
